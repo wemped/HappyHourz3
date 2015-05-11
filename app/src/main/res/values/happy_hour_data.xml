@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Jalepenos (Downtown)</item>
+        <item>Jalepenos (Fairhaven)</item>
+        <item>Archer Ale House</item>
+        <item>Bellingham Bar &amp; Grill</item>
+        <item>Casa Que Pasa</item>
+        <item>New York Pizza &amp; Bar</item>
+        <item>The Copper Hog Gastropub</item>
+        <item>20th Century Bowl</item>
+        <item>Aslan Brewing</item>
+        <item>Boundary Bay Brewery</item>
+        <item>Brandywine Kitchen</item>
+    </string-array>
+
+    <array name="latlgn">
+        <item>48.752670,-122.484038</item>
+        <item>48.720519,-122.504090</item>
+        <item>48.720481,-122.504742</item>
+        <item>48.751110,-122.476854</item>
+        <item>48.750996,-122.476035</item>
+        <item>48.744240,-122.483170</item>
+        <item>48.749563,-122.476087</item>
+        <item>48.750136,-122.475185</item>
+        <item>48.748695,-122.474483</item>
+        <item>48.747759,-122.480937</item>
+        <item>48.751312, -122.479685</item>
+    </array>
+
+    <string-array name="happy_hour_times">
+        <item>Sun all day, Mon-Sat 2pm-5:30pm and 9pm-close</item>
+        <item>Sun all day, Mon-Sat 2pm-5:30pm and 9pm-close</item>
+        <item>Mon-Fri 3pm-6pm and 9-close, Wed-Thurs 9pm-close, Fri-Sat 10pm-close</item>
+        <item>Daily, 4pm-7pm</item>
+        <item>Sun-Thurs 12pm-6pm and 9pm-11pm</item>
+        <item>Daily, 2pm-6pm and 9pm-close, Sun all day</item>
+        <item>Daily, 3pm-6pm</item>
+        <item>Daily, 12pm-7pm</item>
+        <item>Daily, 11am-4pm, 9pm-close</item>
+        <item>Sun-Thurs, 4pm-6pm</item>
+        <item>Mon Tues Thurs Sun 3pm-6pm and 8pm-10pm, Fri Sat 9pm-11pm</item>
+    </string-array>
+
+    <string-array name="happy_hour_descrip">
+        <item>$4 20oz drafts &amp; double wells &amp; small margaritas, $6.50 Big Mamas, $1 tacos, $12 King Kong nachos and more plates</item>
+        <item>$4 20oz drafts &amp; double wells &amp; small margaritas, $6.50 Big Mamas, $1 tacos, $12 King Kong nachos and more plates</item>
+        <item>$1 off pints, wine and cocktails</item>
+        <item>$2.75 domestic pints, $2.50 wells, appetizers and small plates menu</item>
+        <item>50cents off all drinks, half price appetizers and desserts, $1 tacos daily after 11pm</item>
+        <item>$4 Micro pints and margaritas, $5 double wells and wine, extensive food specials</item>
+        <item>$3 Wells and selected beer and wine, appetizers and small plates menu</item>
+        <item>25cents off pints, 75cents off pitchers (for bowlers only)</item>
+        <item>$12 pitchers, $1 off pints, appetizers and small plates menu</item>
+        <item>$1 off pints, appetizers and small plates menu</item>
+        <item>Draft beer or house wine $3.75, appetizers and small plates menu</item>
+    </string-array>
+</resources>
